@@ -1,0 +1,25 @@
+.main-bar-section{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap:25px;
+}
+.toalign{
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+}
+.ol{
+    margin-left: 15px;
+}
+.form-section{
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px;
+    margin-left: 15px; 
+}
+.form-footer{
+    display:flex;
+    justify-content: center;
+    margin:20px;
+}

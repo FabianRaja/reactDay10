@@ -1,5 +1,5 @@
 import React from "react";
-import WorkSpace from "../Components/Workspace.jsx";
+import WorkSpace from "../Components/Workspace";
 import AddBar from "../Components/AddBar";
 
 export default function AddPage(){

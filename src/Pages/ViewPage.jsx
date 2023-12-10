@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import ViewBar from "../Components/ViewBar";
 import { AppCtx } from "../Context/AppContext";
-import WorkSpace from "../Components/Workspace";
+import WorkSpace from "../Components/WorkBar.jsx";
 
 export default function ViewPage(){
 

@@ -1,6 +1,6 @@
 import React from "react";
 import EditBar from "../Components/EditBar";
-import WorkSpace from "../Components/Workspace";
+import WorkSpace from "../Components/WorkBar.jsx";
 
 
 export default function EditPage(){

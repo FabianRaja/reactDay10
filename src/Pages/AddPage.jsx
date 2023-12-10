@@ -1,6 +1,6 @@
 import React from "react";
 import AddBar from "../Components/AddBar";
-import WorkSpace from "../Components/Workspace";
+import WorkSpace from "../Components/WorkBar.jsx";
 
 
 

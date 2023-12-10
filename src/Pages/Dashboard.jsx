@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import MainBar from "../Components/MainBar";
 import { AppCtx } from "../Context/AppContext";
-import WorkSpace from "../Components/Workspace";
+import WorkSpace from "../Components/WorkBar.jsx";
 
 
 export default function Dashboard(){
